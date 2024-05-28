@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### Hi, I’m Riddhi! <br> - Studied Computer Science at Rutgers University-New Brunswick<br>- 🌱 Exploring more in mobile, website development, and Data Science.<br>- 👀 I’m currently learning frameworks such as React Native and Flask.<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I am an artist and I enjoy watching anime, listen to music, and play videogames in my free time.<br><br>  <br><br> 
+#### Hi, I’m Riddhi! <br> - Studied Computer Science at Rutgers University-New Brunswick<br>- 🌱 Exploring more in mobile, website development, and Data Science.<br>- 👀 I’m currently learning frameworks such as React Native and Flask.<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I am an artist and I enjoy watching anime, listening to music, and play videogames in my free time.<br><br>  <br><br> 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rp1177&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rp1177&theme=tokyonight&hide_border=false)<br/>
@@ -13,6 +13,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rp1177&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=rp1177&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
