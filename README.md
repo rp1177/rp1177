@@ -17,8 +17,6 @@
 [![](https://visitcount.itsvg.in/api?id=rp1177&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
