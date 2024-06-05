@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### Hi, I’m Riddhi! <br> - Studied Computer Science at Rutgers University-New Brunswick<br>- 🌱 Exploring more in mobile, website development, and Data Science.<br>- 👀 I’m currently learning frameworks such as React Native and Flask.<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I am an artist and I enjoy watching anime, listening to music, and play videogames in my free time.<br><br>  <br><br> 
+#### Hi, I’m Riddhi! <br> - Studied Computer Science at Rutgers University-New Brunswick (2020-2024) <br>- 🌱 Exploring more in mobile, website development, and Data Science.<br>- 👀 I’m currently learning frameworks such as React Native and Flask.<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I am an artist and I enjoy watching anime, listening to music, and play videogames in my free time.<br><br>  <br><br> 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rp1177&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rp1177&theme=tokyonight&hide_border=false)<br/>
