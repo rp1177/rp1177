@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### Hi, I’m Riddhi! <br> - Studied Computer Science at Rutgers University-New Brunswick (2020-2024) <br>- 🌱 Developing skills in website development and Data Analytics/Science.<br>- 👀 I’m enhancing my data management skills by utilizing Excel for data manipulation and Microsoft PowerBI for data visualization and business intelligence<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I am also an artist and I enjoy watching anime, listening to music, and play videogames in my free time.<br><br>  <br><br> 
+#### Hi, I’m Riddhi! <br> - I hold a B.S. in Computer Science from Rutgers University(Class of 2024) and currently pursuing my M.S. in Analytics at Georgia Tech. <br>- 🌱 Building my skills in Web Development, Data Engineering pipelines, and Data Science applications. <br>- ⚡ Fun fact: I am also an artist and I enjoy watching anime, listening to music, and play videogames in my free time.<br><br>  <br><br> 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rp1177&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
